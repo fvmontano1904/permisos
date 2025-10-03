@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(189, 216, 216);
+}
+.contenedor{
+    background: #4990b9;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+.contenedor_blanco{
+    background:  rgb(189, 216, 216);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+button{
+    padding: 5px;
+    margin: 5px;
+}
